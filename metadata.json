@@ -1,0 +1,5 @@
+{
+  "name": "GridSplitter Pro",
+  "description": "A professional tool to split images into grids (3x3, 4x4, etc.) locally. Features batch processing, custom dimensions, and ZIP archives.",
+  "requestFramePermissions": []
+}
